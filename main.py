@@ -16,7 +16,10 @@ def game():
             print("Your Score: {}".format(pscore))
             print("System Score: {}".format(sscore))
 
-        # PLAYER WINS
+        if player != game:
+            print("Choose Any Of Rock/Paper/Scissor")
+
+# PLAYER WINS
 
         elif player == "rock" and system == "scissor":
             print("You Got A Point!")
