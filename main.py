@@ -65,7 +65,6 @@ def game():
     else:
         pass
 
-
 game()
 
 opinion = input("Play Again?(y/n): ").lower()
