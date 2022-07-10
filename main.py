@@ -81,9 +81,9 @@ if opinion != "y" or opinion != "n":
 
 
 #A Code By Sree Teja Dusi
-#Website: https://sreetejadusi.me
-#Facebook: https://facebook.com/sreetejadusi
-#Twitter: https://twitter.com/sreetejadusi
-#LinkedIn: https://linkedin.com/in/sreetejadusi
-#Instagram: https://instagram.com/sreeteja_dusi
 #GitHub: https://github.com/sreetejadusi
+#LinkedIn: https://linkedin.com/in/sreetejadusi
+#Website: https://sreetejadusi.me
+#Twitter: https://twitter.com/sreetejadusi
+#Instagram: https://instagram.com/sreeteja_dusi
+#Facebook: https://facebook.com/sreetejadusi
