@@ -1,15 +1,13 @@
-# RockPaperScissors
+#A Code By Sree Teja Dusi
 
-A Code By Sree Teja Dusi
+#GitHub: https://github.com/sreetejadusi
 
-Website: https://sreetejadusi.me
+#LinkedIn: https://linkedin.com/in/sreetejadusi
 
-Facebook: https://facebook.com/sreetejadusi
+#Website: https://sreetejadusi.me
 
-Twitter: https://twitter.com/sreetejadusi
+#Twitter: https://twitter.com/sreetejadusi
 
-LinkedIn: https://linkedin.com/in/sreetejadusi
+#Instagram: https://instagram.com/sreeteja_dusi
 
-Instagram: https://instagram.com/sreeteja_dusi
-
-GitHub: https://github.com/sreetejadusi
+#Facebook: https://facebook.com/sreetejadusi
